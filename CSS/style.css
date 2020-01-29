@@ -2,7 +2,6 @@
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  /* display: grid; */
 }
 
 #navbar{
@@ -36,7 +35,7 @@
 
 #main-doc {
 margin-left: 14em;
-font-size: 28px; /* Increased text to enable scrolling */
+font-size: 28px;
 padding: 1em;
 }
 
